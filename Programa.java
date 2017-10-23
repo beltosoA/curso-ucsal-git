@@ -2,6 +2,6 @@ public class random{
 
   public static void public static void main(String[] args) {
     System.out.println(" " + Math.random);
-    System.out.println("Tal");
+    System.out.println("Nada");
   }
 }
